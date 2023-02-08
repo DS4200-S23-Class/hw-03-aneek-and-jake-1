@@ -36,6 +36,7 @@ button {
 	float: left;
 	display: flex;
 	justify-content: center;
+	align-items: center;
 }
 
 .mode {
